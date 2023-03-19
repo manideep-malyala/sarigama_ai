@@ -1,6 +1,6 @@
 # SaRiGaMa.AI Music Separation Utility
 
-SaRiGaMa.AI is a user-friendly music separation utility that allows users to easily separate different components of a music track into individual audio files. Using the pre-trained open-source model Spleeter from Deezer, SaRiGaMa.AI employs several powerful Python libraries, including Pydub, Pytube, Mutagen, Yt-Dlp etc, to isolate tracks such as vocals, drums, bass, and more, converting them.
+SaRiGaMa.AI is a user-friendly music separation utility that allows users to easily separate different components of a music track into individual audio files. Using the pre-trained open-source model Spleeter from Deezer, SaRiGaMa.AI employs several powerful Python libraries, including Pydub, Pytube, Mutagen, Yt-Dlp etc, to isolate tracks such as vocals, drums, bass, compressing and converting them into MP3 files. 
 
 ## Usage
 
